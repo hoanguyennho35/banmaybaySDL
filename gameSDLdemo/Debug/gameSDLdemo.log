@@ -1,0 +1,28 @@
+﻿  amo.cpp
+  Explosion_Object.cpp
+  player_number.cpp
+C:\Users\DELL\source\repos\gameSDLdemo\gameSDLdemo\player_number.cpp(27,24): warning C4018: '<': signed/unsigned mismatch
+  text_object.cpp
+  threats_object.cpp
+C:\Users\DELL\source\repos\gameSDLdemo\gameSDLdemo\threats_object.cpp(5,19): warning C4244: '=': conversion from 'double' to 'Sint16', possible loss of data
+C:\Users\DELL\source\repos\gameSDLdemo\gameSDLdemo\threats_object.cpp(33,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\gameSDLdemo\gameSDLdemo\threats_object.cpp(59,38): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\DELL\source\repos\gameSDLdemo\gameSDLdemo\threats_object.cpp(74,38): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\DELL\source\repos\gameSDLdemo\gameSDLdemo\threats_object.cpp(82,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\gameSDLdemo\gameSDLdemo\threats_object.cpp(94,36): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  Generating Code...
+  base_Object.cpp
+  common_function.cpp
+  main.cpp
+C:\Users\DELL\source\repos\gameSDLdemo\gameSDLdemo\main.cpp(72,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\gameSDLdemo\gameSDLdemo\main.cpp(156,41): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\DELL\source\repos\gameSDLdemo\gameSDLdemo\main.cpp(175,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\gameSDLdemo\gameSDLdemo\main.cpp(176,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\gameSDLdemo\gameSDLdemo\main.cpp(219,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\gameSDLdemo\gameSDLdemo\main.cpp(220,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\gameSDLdemo\gameSDLdemo\main.cpp(258,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\gameSDLdemo\gameSDLdemo\main.cpp(259,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main_Object.cpp
+C:\Users\DELL\source\repos\gameSDLdemo\gameSDLdemo\main_Object.cpp(86,67): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  Generating Code...
+  gameSDLdemo.vcxproj -> C:\Users\DELL\source\repos\gameSDLdemo\Debug\gameSDLdemo.exe
